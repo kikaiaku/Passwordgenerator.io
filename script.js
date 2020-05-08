@@ -122,10 +122,7 @@ console.log(num)
 console.log(alpha)
 console.log(alpha2)
 console.log(character)
- console.log(confirmChar)
- console.log(confirmLcase)
- console.log(confirmNum)
- console.log(confirmUcase)
+
 
 // Add event listener to generate button
 generateBtn.addEventListener("click", writePassword);
